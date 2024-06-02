@@ -30,6 +30,9 @@ public class Hole extends Cell {
     public int getDepth() {
         return this.depth;
     }
+    public boolean isClosed() {
+        return !(this.depth > 0);
+    }
 
     public Colors getColor() {
         return this.color;

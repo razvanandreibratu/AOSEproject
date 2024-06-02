@@ -3,9 +3,9 @@ package Cells;
 public enum Colors {
     RESET("\u001B[0m"),
     BLACK("\u001B[30m"),
-    Red("\u001B[31m"),
+    RED("\u001B[31m"),
     GREEN("\u001B[32m"),
-    Yellow("\u001B[33m"),
+    YELLOW("\u001B[33m"),
     BLUE("\u001B[34m"),
     PURPLE("\u001B[35m"),
     CYAN("\u001B[36m"),
