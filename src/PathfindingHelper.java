@@ -7,6 +7,7 @@ public class PathfindingHelper {
 
     public PathfindingHelper(Environment environment) {
         this.environment = environment;
+
     }
 
     public List<String> findPath(int startX, int startY, int targetX, int targetY) {
