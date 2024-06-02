@@ -1,6 +1,11 @@
 import Cells.*;
 import java.util.*;
 
+/*
+ * Credits for pathfinder:
+ * http://gregtrowbridge.com/a-basic-pathfinding-algorithm/
+ * used for this class
+ */
 public class PathfindingHelper {
 
     private final Environment environment;
